@@ -1,1 +1,1 @@
-# Self-Challenges
+This is my Tableau project which i have worked on Sales dataset.I have taken the screenshot of the tableau dashboard and posted on linkedin,so within 14 hrs i have crossed 10,000+ impressions in linkedin.It is very proud moment for me.

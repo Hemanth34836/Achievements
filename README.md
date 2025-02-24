@@ -37,11 +37,11 @@ No cheating is allowed.
 Screen recording is the proof that you are working on the project honestly.
 The following link for this challenge https://www.linkedin.com/feed/update/urn:li:activity:7224041066843267073?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_zfyABj6487dAzfoaiKdhapOfJkWSdkn4
 
-I am here to share the challenge of making a Data Analysis project with less than 15 minutes with a screen recording.
+I am here to share the challenge of making a Data Analysis project with less than 10 minutes with a screen recording.
 Rules of performing the challenge:-
 The project must be completed within 10 min.  
-While performing the project if you encounter with errors, you must solve the errors and complete the project within 15 minutes. 
- If you failed to complete the project within 15 min, you must redo the project. 
+While performing the project if you encounter with errors, you must solve the errors and complete the project within 10 minutes. 
+ If you failed to complete the project within 10 min, you must redo the project. 
 No cheating is allowed. 
 Screen recording is the proof that you are working on the project honestly.
 The following link for this challenge  https://www.linkedin.com/feed/update/urn:li:activity:7195045974161960960?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_zfyABj6487dAzfoaiKdhapOfJkWSdkn4

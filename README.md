@@ -1,4 +1,5 @@
 This is my Tableau project, in which I worked on a sales dataset.I have taken a screenshot of the Tableau dashboard and posted it on LinkedIn, so within 14 hrs I have crossed 10,000+ impressions on LinkedIn.It is a very proud moment for me.
+The following link 
 
 I am here to share the challenge of making a Tableau project with less than 15 minutes with a screen recording
 Rules of performing the challenge:-
